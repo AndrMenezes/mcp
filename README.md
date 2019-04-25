@@ -1,6 +1,6 @@
 # Multiple Comparison Procedures #
 
-> Projects developed joint to my friend [Vinicius Félix](https://github.com/vbfelix) during my undergraduate at [DEs/UEM](http://www.des.uem.br/).
+> Projects developed joint to my friend [Vinicius FÃ©lix](https://github.com/vbfelix) during my undergraduate at [DEs/UEM](http://www.des.uem.br/).
 
 
 ## Comparisons of ten corrections methods for t-test in multiple comparisons via Monte Carlo study
@@ -9,9 +9,11 @@ the performance of the t-test and the ten corrections in the context of multiple
 
 
 ***
-> [Paper](https://github.com/AndrMenezes/si2017/raw/master/final_report.pdf)
+> [Paper](https://github.com/AndrMenezes/mcp/raw/master/Docs/paper.pdf)
 
-> [Script](https://journal.r-project.org/archive/2017/RJ-2017-055/index.html)
+> [Presentation](https://github.com/AndrMenezes/mcp/raw/master/Docs/presentation.pdf)
+
+> [Scripts](https://github.com/AndrMenezes/mcp/tree/master/Scripts/paper)
 ***
 
 
@@ -21,9 +23,11 @@ In this project we evaluated the family-wise Type I error rate and the power of 
 multiple comparison of means (post hoc).
 
 ***
-> [Poster](https://github.com/AndrMenezes/si2017/raw/master/final_report.pdf)
+> [Poster](https://github.com/AndrMenezes/mcp/raw/master/Docs/poster.pdf)
 
-> [Script](https://journal.r-project.org/archive/2017/RJ-2017-055/index.html)
+> [Abstract](https://github.com/AndrMenezes/mcp/raw/master/Docs/abstract.pdf)
+
+> [Script](https://github.com/AndrMenezes/mcp/tree/master/Scripts/poster)
 ***
 
 
